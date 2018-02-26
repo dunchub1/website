@@ -1,0 +1,19 @@
+    h1 {font-family: fantasy}
+    h1 {width: 100%}
+    h1 {padding:15px;}
+    h1 {border-top: 12px solid navy}
+    h1 {border-bottom: 12px solid navy}
+    
+    h2 {font-family:fantasy}
+   
+    p {font-family:sans-serif}
+    
+    body {background-color: aliceblue}
+    
+    a {font-size: 30px}
+    a:link {color:navy}
+    a:visited {color:navy}
+    a:hover {color: skyblue}
+    a {text-decoration: none}
+
+    .loginfo {text-align: right}
